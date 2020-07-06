@@ -23,8 +23,7 @@ public class FirstGitt
      */
     public static void main(String[] args)
     {
-        //TODO Starting code
-        //TODO Tělo hlavní metody
+        System.out.println("Hello GIT");
     }
 
 
